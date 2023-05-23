@@ -4,7 +4,7 @@ import os
 import sys
 
 print("*******************************")
-print("****BDIX tester by shantanu****")
+print("****BDIX Tester****")
 print("*******************************\n")
 
 file =  os.path.join(sys.path[0], "bdix_url_local.txt")
