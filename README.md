@@ -1,4 +1,4 @@
-#### TERMUX ####
+####👉 TERMUX 👈####
 
 pkg install git
 
@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 python bdix.py
 
-#### WINDOWS ####
+####👉 WINDOWS 👈####
 
 git clone https://github.com/Shantanu2645/BDIX_Tester_py
 
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 python bdix.py
 
-#### LINUX ####
+####👉 LINUX 👈####
 
 sudo apt-get install python3
 
